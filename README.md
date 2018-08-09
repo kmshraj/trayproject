@@ -6,7 +6,7 @@ Welcome to the Tray Dashboard automation repo using Typescript & Protractor.
 2. Source tree 
 
 # START THE REPOSITORY
-The first step is  to install all the dependencies to run the project, just launch this command in the terminal been inside the root folder of the project.
+The first step is  to  Clone the repository install all the dependencies to run the project, just run the command below in the terminal being inside the root folder of the project.
 
 ## ARCHITECTURE PROJECT
 
