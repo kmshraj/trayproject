@@ -39,7 +39,7 @@ The first step is  to  Clone the repository install all the dependencies to run 
 
 # INSTALLATION
 
-We need install this package to work with this repository, as you can see Protractor is not installed as Global Package,we will install using our Package file inside the repository.
+We need to install this package to work with this repository, as you can see Protractor is not installed as Global Package,we will install using our Package file inside the repository.
 ~~~~bash
 $ npm install -g webdriver-manager      # Install Webdriver Manager
 $ webdriver-manager update              # Updated Webdriver Manager
