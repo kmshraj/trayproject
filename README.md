@@ -48,7 +48,7 @@ $ npm install -g typescript@2.3.4       # Install Typescript
 
 # START THE REPOSITORY
 
-The first step is install all the repositories to run the project, just run command given below in the terminal being inside the root folder of the project.
+The first step is  to install all the repositories to run the project, just run command given below in the terminal being inside the root folder of the project.
 ~~~~bash
 $ npm install
 ~~~~
