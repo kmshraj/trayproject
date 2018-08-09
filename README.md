@@ -39,7 +39,7 @@ The first step is  to  Clone the repository install all the dependencies to run 
 
 # INSTALLATION
 
-We need install this package to work with this repository, as you can see Protractor is not installed as Global Package as soon as we will install using our Package file inside the repository.
+We need install this package to work with this repository, as you can see Protractor is not installed as Global Package,we will install using our Package file inside the repository.
 ~~~~bash
 $ npm install -g webdriver-manager      # Install Webdriver Manager
 $ webdriver-manager update              # Updated Webdriver Manager
@@ -48,7 +48,7 @@ $ npm install -g typescript@2.3.4       # Install Typescript
 
 # START THE REPOSITORY
 
-The first step is install all the repositories to run the project, just launch this command in the terminal been inside the root folder of the project.
+The first step is install all the repositories to run the project, just run command given below in the terminal being inside the root folder of the project.
 ~~~~bash
 $ npm install
 ~~~~
@@ -65,7 +65,7 @@ $ webdriver-manager start
 $ npm run test
 ~~~~
 
-Also inside the package.json you will find more scripts with multiple options like qa,dev etc. to run them you need to write:
+Also inside the package.json you will find more scripts with multiple options like qa,dev etc. to run them you need to update:
 
 ~~~~bash
 $ npm run [scriptID] # e.g. npm run tsc
@@ -73,7 +73,7 @@ $ npm run [scriptID] # e.g. npm run tsc
 
 ## RUN SUITES
 
-We can run packs of test cases predefined inside our config.ts file. If we want to run them we need run the next command line:
+We can run packs of test cases predefined inside our config.ts file. If we want to run them we need run command below in the command line:
 
 ~~~~bash
 $ webdriver-manager updated
