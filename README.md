@@ -54,18 +54,19 @@ $ npm install
 ~~~~
 
 # ASK FOR tray-credentials
+$ User credentials file, which would be sent privately upon request
 
 
 # RUN THE TESTS
 
 
 ~~~~bash
-$ webdriver-manager updated
+$ webdriver-manager update
 $ webdriver-manager start
 $ npm run test
 ~~~~
 
-Also inside the package.json you will find more scripts with multiple options like qa,dev etc. to run them you need to update:
+Also inside the package.json you will find more scripts with multiple options like qa,dev etc. To run them you need to run the command like below:
 
 ~~~~bash
 $ npm run [scriptID] # e.g. npm run tsc
@@ -73,7 +74,7 @@ $ npm run [scriptID] # e.g. npm run tsc
 
 ## RUN SUITES
 
-We can run packs of test cases predefined inside our config.ts file. If we want to run them we need run command below in the command line:
+We can run packs of test cases predefined as test suites in our config.ts file. If we want to run them we need run command below :
 
 ~~~~bash
 $ webdriver-manager updated
